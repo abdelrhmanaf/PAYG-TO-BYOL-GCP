@@ -1,0 +1,2 @@
+PROJECT_ID,ZONE,VM_NAME,DISK_NAME,NEW_DISK_NAME,IMAGE_NAME,IMAGE_NAME_BYOL,DESTINATION_URI,LOG_LOCATION,REGION,DISK_TYPE
+my-project,us-central1-a,my-vm,boot-disk,new-boot-disk,my-image,my-byol-image,gs://my-bucket/image-export,gs://my-bucket/logs,us-central1,pd-standard
