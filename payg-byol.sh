@@ -2,7 +2,7 @@
 set -e
 
 # Define the CSV file path
-CSV_FILE="/home/abdelrhmanaiman/sap/byol.csv" 
+CSV_FILE="/path/to/your/file.csv" 
 
 # Define the maximum number of parallel jobs (5 VMs)
 MAX_PARALLEL_JOBS=5
@@ -213,3 +213,4 @@ JOBS=0
 wait
 
 echo "Process completed!"
+
